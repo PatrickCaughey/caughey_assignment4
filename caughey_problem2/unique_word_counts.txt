@@ -1,0 +1,5 @@
+red 6 
+orange 2 
+green 2 
+blue 4 
+yellow 1 
